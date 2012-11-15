@@ -1,4 +1,3 @@
-nashdotnet
-==========
+# 2012-11-15 
 
-Nashville .Net User Group labs
+Design Patterns lab
